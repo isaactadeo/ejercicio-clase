@@ -1,0 +1,15 @@
+C:\Users\Tadeo\source\repos\ejercicio-clase\ejercicio-clase\ConsoleApp1\bin\Debug\net8.0\Wiretech.exe
+C:\Users\Tadeo\source\repos\ejercicio-clase\ejercicio-clase\ConsoleApp1\bin\Debug\net8.0\Wiretech.deps.json
+C:\Users\Tadeo\source\repos\ejercicio-clase\ejercicio-clase\ConsoleApp1\bin\Debug\net8.0\Wiretech.runtimeconfig.json
+C:\Users\Tadeo\source\repos\ejercicio-clase\ejercicio-clase\ConsoleApp1\bin\Debug\net8.0\Wiretech.dll
+C:\Users\Tadeo\source\repos\ejercicio-clase\ejercicio-clase\ConsoleApp1\bin\Debug\net8.0\Wiretech.pdb
+C:\Users\Tadeo\source\repos\ejercicio-clase\ejercicio-clase\ConsoleApp1\obj\Debug\net8.0\Wiretech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tadeo\source\repos\ejercicio-clase\ejercicio-clase\ConsoleApp1\obj\Debug\net8.0\Wiretech.AssemblyInfoInputs.cache
+C:\Users\Tadeo\source\repos\ejercicio-clase\ejercicio-clase\ConsoleApp1\obj\Debug\net8.0\Wiretech.AssemblyInfo.cs
+C:\Users\Tadeo\source\repos\ejercicio-clase\ejercicio-clase\ConsoleApp1\obj\Debug\net8.0\Wiretech.csproj.CoreCompileInputs.cache
+C:\Users\Tadeo\source\repos\ejercicio-clase\ejercicio-clase\ConsoleApp1\obj\Debug\net8.0\Wiretech.sourcelink.json
+C:\Users\Tadeo\source\repos\ejercicio-clase\ejercicio-clase\ConsoleApp1\obj\Debug\net8.0\Wiretech.dll
+C:\Users\Tadeo\source\repos\ejercicio-clase\ejercicio-clase\ConsoleApp1\obj\Debug\net8.0\refint\Wiretech.dll
+C:\Users\Tadeo\source\repos\ejercicio-clase\ejercicio-clase\ConsoleApp1\obj\Debug\net8.0\Wiretech.pdb
+C:\Users\Tadeo\source\repos\ejercicio-clase\ejercicio-clase\ConsoleApp1\obj\Debug\net8.0\Wiretech.genruntimeconfig.cache
+C:\Users\Tadeo\source\repos\ejercicio-clase\ejercicio-clase\ConsoleApp1\obj\Debug\net8.0\ref\Wiretech.dll

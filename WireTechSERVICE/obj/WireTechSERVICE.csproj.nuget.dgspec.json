@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tadeo\\source\\repos\\ejercicio-clase\\ejercicio-clase\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\Tadeo\\source\\repos\\ejercicio-clase\\ejercicio-clase\\WireTechSERVICE\\WireTechSERVICE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tadeo\\source\\repos\\ejercicio-clase\\ejercicio-clase\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\Tadeo\\source\\repos\\ejercicio-clase\\ejercicio-clase\\WireTechSERVICE\\WireTechSERVICE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tadeo\\source\\repos\\ejercicio-clase\\ejercicio-clase\\ConsoleApp1\\ConsoleApp1.csproj",
-        "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\Tadeo\\source\\repos\\ejercicio-clase\\ejercicio-clase\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\Tadeo\\source\\repos\\ejercicio-clase\\ejercicio-clase\\WireTechSERVICE\\WireTechSERVICE.csproj",
+        "projectName": "WireTechSERVICE",
+        "projectPath": "C:\\Users\\Tadeo\\source\\repos\\ejercicio-clase\\ejercicio-clase\\WireTechSERVICE\\WireTechSERVICE.csproj",
         "packagesPath": "C:\\Users\\Tadeo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tadeo\\source\\repos\\ejercicio-clase\\ejercicio-clase\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\Tadeo\\source\\repos\\ejercicio-clase\\ejercicio-clase\\WireTechSERVICE\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
